@@ -11,21 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S in Environmental Science and Engineering, Ulsan National Institute of Science and Technology, 2025 (expected)
+* M.S. in Environmental Sciences, Jahangirnagar University, 2023
+* B.Sc. in Environmental Sciences, Jahangirnagar University, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Sep 2024 - Present: Research Assistant
+  * Intelligent Remote Sensing and Geospatial Information Science (IRIS) Lab, UNIST
+  * Duties include:
+  * Developing Deep Learning based wildfire burned area estimation method using Sentinel-1
+  * Developing Post-fire vegetation recovery modeling using Machine Learning models such as Random Forest and SVM.
+  * Supervisor: Dr. Jungho Im
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Nov 2022 - Jun 2023: Junior Research Fellow
+  * Water Resource Division, Bangladesh Space Research and Remote Sensing Organization (SPARRSO) 
+  * Duties include:
+  * Developed Flood Risk Maps using MCDM called AHP.
+  * Produced flood inundation maps for flood-prone regions using Google Earth engine.
+  * Correlated the current situation with flood risks of Rangpur Division.
+  * Supervisor: S M Ahsan Habib
 
 * Summer 2015: Research Assistant
   * Github University
@@ -34,31 +39,44 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Satellite Image Interpretation
+* ArcMap
+* QGIS
+* Machine Learning
+* Deep Learning
+* Python Programming
+
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+Awards and Scholarships
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* UNIST Scholarship 2023
+Awarding Institution: Ulsan National Institute of Science and Technology
+
+* SPARRSO Research Fellowship 2022
+Awarding Institution: Bangladesh Space Research and Remote Sensing Organization (SPARRSO)
+
+* Full Fund for participation to  XV World Forestry Congress 2021
+Awarding Institution: Korean Forest Service (KFS) and Food and Agricultural Organization (FAO)
+
+* Undergraduate Government Scholarship (General Category) 2020
+Awarding Institution: University Grant Commission (UGC)
+
+* Undergraduate Merit Scholarship for 2017, 2018, 2019
+Awarding Institution: Jahangirnagar University
+
+* Junior School Certificate Scholarship (JSC) 2010
+Awarding Institution: Dhaka Education Board
+
+
+
+Leadership
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* President, Nature Conservation Initiative (Dec 2021 - Nov 2022)
+* Team Leader, Program Development Project Team, Youth In Landscape Initiative (Mar 2021 – Dec 2021)
+* RISE II Participant, International Center for Climate Change and Development (Feb 2021 - Dec 2021)
