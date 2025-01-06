@@ -56,22 +56,22 @@ Publications
 Awards and Scholarships
 ======
 * UNIST Scholarship 2023
-Awarding Institution: Ulsan National Institute of Science and Technology
+<i>Awarding Institution: Ulsan National Institute of Science and Technology</i>
 
 * SPARRSO Research Fellowship 2022
-Awarding Institution: Bangladesh Space Research and Remote Sensing Organization (SPARRSO)
+<i>Awarding Institution: Bangladesh Space Research and Remote Sensing Organization (SPARRSO)</i>
 
 * Full Fund for participation to  XV World Forestry Congress 2021
-Awarding Institution: Korean Forest Service (KFS) and Food and Agricultural Organization (FAO)
+<i>Awarding Institution: Korean Forest Service (KFS) and Food and Agricultural Organization (FAO)</i>
 
 * Undergraduate Government Scholarship (General Category) 2020
-Awarding Institution: University Grant Commission (UGC)
+<i>Awarding Institution: University Grant Commission (UGC)</i>
 
 * Undergraduate Merit Scholarship for 2017, 2018, 2019
-Awarding Institution: Jahangirnagar University
+<i>Awarding Institution: Jahangirnagar University</i>
 
 * Junior School Certificate Scholarship (JSC) 2010
-Awarding Institution: Dhaka Education Board
+<i>Awarding Institution: Dhaka Education Board</i>
 
 
 
